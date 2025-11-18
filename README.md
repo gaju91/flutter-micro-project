@@ -24,13 +24,6 @@
 
 ---
 
-<p align="center">
-  <img width="215" height="413"
-       src="https://github.com/user-attachments/assets/cbb08bb9-c162-4cef-82db-791418b3ebd3" />
-</p>
-
----
-
 ### 2. Color Picker (60 min)
 **What you'll learn**: Sliders, Colors, Multiple state variables
 **What you'll build**: RGB sliders with live color preview & hex code
